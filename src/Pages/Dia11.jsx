@@ -1,5 +1,4 @@
 import React from 'react'
-import './styles/Dia11.css'
 export default function Dia11(){
     let numero = 0;
     

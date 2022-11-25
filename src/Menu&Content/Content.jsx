@@ -2,7 +2,7 @@ import React from "react";
 import './Content.css'
 import {Routes, Route} from 'react-router-dom'
 import Home from '../Pages/Home'
-import Dia1 from '../Pages/Dia1'
+import useState from '../Pages/useState'
 import Dia11 from '../Pages/Dia11'
 import Dia2 from '../Pages/Dia2'
 import Dia21 from '../Pages/Dia21'
@@ -14,7 +14,7 @@ export default function Content(){
         <main className="Content">
             <Routes>
                 <Route path = "/" exact element = {<Home />}/>
-                <Route path = "/dia1" element = {<Dia1 />}/>
+                <Route path = "/useState" element = {<useState />}/>
 
                 <Route path = "/dia11" element = {<Dia11 />}/>
 

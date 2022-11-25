@@ -7,7 +7,7 @@ export default function Menu(){
             <nav>
                 <ul className="list">
                     <li className = "element"><a href = "/">Início</a></li>
-                    <li className = "element"><a href = "/dia1">UseState()</a></li>
+                    <li className = "element"><a href = "/useState">UseState()</a></li>
                     <li className = "element"><a href = "/dia11">UseEffect()</a></li>
                     <li className = "element"><a href = "/dia2">useRef()</a></li>
                     <li className = "element"><a href = "/dia21">useMemo()</a></li>

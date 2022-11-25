@@ -1,5 +1,4 @@
 import React from "react";
-import './styles/dia1.css'
 
 export default function Dia1(){
     return(

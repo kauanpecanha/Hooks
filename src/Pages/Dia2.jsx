@@ -1,5 +1,4 @@
 import React from 'react'
-import './styles/Dia2.css'
 
 function Dia2(){
     return(
